@@ -1,0 +1,16 @@
+{
+    "name": "dasha/dom",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DariaNagornova",
+            "email": "dasha50476@rambler.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DomTree\\App\\": "src/"
+        }
+    }
+}
